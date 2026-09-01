@@ -28,20 +28,6 @@ Computer Science graduate focused on **Defensive Cybersecurity**, with interests
 `Splunk` `Wireshark` `Nmap` `Zabbix` `Grafana`  
 `Microsoft Sentinel` `Linux` `Windows` `AWS` `OCI`
 
-## Projects
-
-### Linux SOC Monitoring & Detection Lab
-
-`Splunk` • `SSH Logs` • `Brute-Force Detection`
-
-### Network Monitoring Lab
-
-`Monitoring` • `Alerts` • `Troubleshooting`
-
-### Windows Detection Lab
-
-`Sysmon` • `Splunk` • `MITRE ATT&CK`
-
 ## Certifications
 
 - Cisco Junior Cybersecurity Analyst
